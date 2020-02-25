@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "riseTime": "11:52",
+      "risePerc": 0.49444444444444446,
+      "setTime": "2:27",
+      "setPerc": 0.10208333333333333,
+      "meridian": "19:37",
+      "meridianPerc": 0.8173611111111111,
+      "illumination": 56.0
+    },
+    {
+      "riseTime": "12:54",
+      "risePerc": 0.5375,
+      "setTime": "3:20",
+      "setPerc": 0.1388888888888889,
+      "meridian": "20:34",
+      "meridianPerc": 0.8569444444444444,
+      "illumination": 67.0
+    },
+    {
+      "riseTime": "14:02",
+      "risePerc": 0.5847222222222223,
+      "setTime": "4:08",
+      "setPerc": 0.17222222222222222,
+      "meridian": "21:31",
+      "meridianPerc": 0.8965277777777778,
+      "illumination": 77.5
+    },
+    {
+      "riseTime": "15:15",
+      "risePerc": 0.6354166666666666,
+      "setTime": "4:50",
+      "setPerc": 0.2013888888888889,
+      "meridian": "22:27",
+      "meridianPerc": 0.9354166666666667,
+      "illumination": 86.7
+    },
+    {
+      "riseTime": "16:31",
+      "risePerc": 0.6881944444444444,
+      "setTime": "5:27",
+      "setPerc": 0.22708333333333333,
+      "meridian": "23:22",
+      "meridianPerc": 0.9736111111111111,
+      "illumination": 94.0
+    },
+    {
+      "riseTime": "17:48",
+      "risePerc": 0.7416666666666667,
+      "setTime": "6:01",
+      "setPerc": 0.25069444444444444,
+      "meridian": null,
+      "meridianPerc": null,
+      "illumination": null
+    },
+    {
+      "riseTime": "19:05",
+      "risePerc": 0.7951388888888888,
+      "setTime": "6:33",
+      "setPerc": 0.27291666666666664,
+      "meridian": "0:16",
+      "meridianPerc": 0.011111111111111112,
+      "illumination": 98.5
+    },
+    {
+      "riseTime": "20:22",
+      "risePerc": 0.8486111111111111,
+      "setTime": "7:05",
+      "setPerc": 0.2951388888888889,
+      "meridian": "1:10",
+      "meridianPerc": 0.04861111111111111,
+      "illumination": 99.8
+    },
+    {
+      "riseTime": "21:39",
+      "risePerc": 0.9020833333333333,
+      "setTime": "7:38",
+      "setPerc": 0.31805555555555554,
+      "meridian": "2:05",
+      "meridianPerc": 0.08680555555555555,
+      "illumination": 97.9
+    },
+    {
+      "riseTime": "22:54",
+      "risePerc": 0.9541666666666667,
+      "setTime": "8:14",
+      "setPerc": 0.34305555555555556,
+      "meridian": "3:00",
+      "meridianPerc": 0.125,
+      "illumination": 92.9
+    },
+    {
+      "riseTime": null,
+      "risePerc": null,
+      "setTime": "8:54",
+      "setPerc": 0.37083333333333335,
+      "meridian": "3:57",
+      "meridianPerc": 0.16458333333333333,
+      "illumination": 85.4
+    },
+    {
+      "riseTime": "0:05",
+      "risePerc": 0.003472222222222222,
+      "setTime": "9:40",
+      "setPerc": 0.4027777777777778,
+      "meridian": "4:54",
+      "meridianPerc": 0.20416666666666666,
+      "illumination": 76.2
+    },
+    {
+      "riseTime": "1:09",
+      "risePerc": 0.04791666666666667,
+      "setTime": "10:32",
+      "setPerc": 0.4388888888888889,
+      "meridian": "5:51",
+      "meridianPerc": 0.24375,
+      "illumination": 66.0
+    },
+    {
+      "riseTime": "2:06",
+      "risePerc": 0.0875,
+      "setTime": "11:28",
+      "setPerc": 0.4777777777777778,
+      "meridian": "6:46",
+      "meridianPerc": 0.28194444444444444,
+      "illumination": 55.3
+    },
+    {
+      "riseTime": "2:54",
+      "risePerc": 0.12083333333333333,
+      "setTime": "12:28",
+      "setPerc": 0.5194444444444445,
+      "meridian": "7:39",
+      "meridianPerc": 0.31875,
+      "illumination": 44.8
+    },
+    {
+      "riseTime": "3:34",
+      "risePerc": 0.1486111111111111,
+      "setTime": "13:29",
+      "setPerc": 0.5618055555555556,
+      "meridian": "8:29",
+      "meridianPerc": 0.35347222222222224,
+      "illumination": 34.8
+    },
+    {
+      "riseTime": "4:08",
+      "risePerc": 0.17222222222222222,
+      "setTime": "14:29",
+      "setPerc": 0.6034722222222222,
+      "meridian": "9:15",
+      "meridianPerc": 0.3854166666666667,
+      "illumination": 25.6
+    },
+    {
+      "riseTime": "4:37",
+      "risePerc": 0.19236111111111112,
+      "setTime": "15:29",
+      "setPerc": 0.6451388888888889,
+      "meridian": "9:59",
+      "meridianPerc": 0.41597222222222224,
+      "illumination": 17.6
+    },
+    {
+      "riseTime": "5:03",
+      "risePerc": 0.21041666666666667,
+      "setTime": "16:27",
+      "setPerc": 0.6854166666666667,
+      "meridian": "10:41",
+      "meridianPerc": 0.44513888888888886,
+      "illumination": 10.8
+    },
+    {
+      "riseTime": "5:27",
+      "risePerc": 0.22708333333333333,
+      "setTime": "17:25",
+      "setPerc": 0.7256944444444444,
+      "meridian": "11:22",
+      "meridianPerc": 0.4736111111111111,
+      "illumination": 5.6
+    },
+    {
+      "riseTime": "5:50",
+      "risePerc": 0.24305555555555555,
+      "setTime": "18:23",
+      "setPerc": 0.7659722222222223,
+      "meridian": "12:02",
+      "meridianPerc": 0.5013888888888889,
+      "illumination": 2.0
+    },
+    {
+      "riseTime": "6:14",
+      "risePerc": 0.25972222222222224,
+      "setTime": "19:22",
+      "setPerc": 0.8069444444444445,
+      "meridian": "12:43",
+      "meridianPerc": 0.5298611111111111,
+      "illumination": 0.3
+    },
+    {
+      "riseTime": "6:39",
+      "risePerc": 0.27708333333333335,
+      "setTime": "20:22",
+      "setPerc": 0.8486111111111111,
+      "meridian": "13:25",
+      "meridianPerc": 0.5590277777777778,
+      "illumination": 0.5
+    },
+    {
+      "riseTime": "7:06",
+      "risePerc": 0.29583333333333334,
+      "setTime": "21:22",
+      "setPerc": 0.8902777777777777,
+      "meridian": "14:10",
+      "meridianPerc": 0.5902777777777778,
+      "illumination": 2.6
+    },
+    {
+      "riseTime": "7:37",
+      "risePerc": 0.3173611111111111,
+      "setTime": "22:24",
+      "setPerc": 0.9333333333333333,
+      "meridian": "14:56",
+      "meridianPerc": 0.6222222222222222,
+      "illumination": 6.7
+    },
+    {
+      "riseTime": "8:13",
+      "risePerc": 0.3423611111111111,
+      "setTime": "23:24",
+      "setPerc": 0.975,
+      "meridian": "15:46",
+      "meridianPerc": 0.6569444444444444,
+      "illumination": 12.7
+    },
+    {
+      "riseTime": "8:56",
+      "risePerc": 0.37222222222222223,
+      "setTime": null,
+      "setPerc": null,
+      "meridian": "16:38",
+      "meridianPerc": 0.6930555555555555,
+      "illumination": 20.4
+    },
+    {
+      "riseTime": "9:46",
+      "risePerc": 0.40694444444444444,
+      "setTime": "0:23",
+      "setPerc": 0.01597222222222222,
+      "meridian": "17:32",
+      "meridianPerc": 0.7305555555555555,
+      "illumination": 29.7
+    },
+    {
+      "riseTime": "10:44",
+      "risePerc": 0.44722222222222224,
+      "setTime": "1:17",
+      "setPerc": 0.05347222222222222,
+      "meridian": "18:27",
+      "meridianPerc": 0.76875,
+      "illumination": 40.1
+    },
+    {
+      "riseTime": "11:48",
+      "risePerc": 0.49166666666666664,
+      "setTime": "2:05",
+      "setPerc": 0.08680555555555555,
+      "meridian": "19:22",
+      "meridianPerc": 0.8069444444444445,
+      "illumination": 51.4
+    }
+  ]
+}
