@@ -2,6 +2,7 @@ import pandas
 import json
 import time
 
+day = 4
 
 def convertTime(t):
     try:
@@ -31,19 +32,25 @@ out = []
 
 df = pandas.read_csv("../data/moonApril.csv");
 
+
 for index, row in df.iterrows():
-    obj = {}
-    obj['riseTime'] = convertTime(row['Moonrise'])
-    obj['risePerc'] = timeToFloat(obj['riseTime'])
+	obj = {}
+	obj['riseTime'] = convertTime(row['Moonrise'])
+	obj['risePerc'] = timeToFloat(obj['riseTime'])
 
-    obj['setTime'] = convertTime(row['Moonset'])
-    obj['setPerc'] = timeToFloat(obj['setTime'])
+	obj['setTime'] = convertTime(row['Moonset'])
+	obj['setPerc'] = timeToFloat(obj['setTime'])
 
-    obj['meridian'] = convertTime(row['Time'])
-    obj['meridianPerc'] = timeToFloat(obj['meridian'])
+	obj['meridian'] = convertTime(row['Time'])
+	obj['meridianPerc'] = timeToFloat(obj['meridian'])
 
-    obj["illumination"] = float(str(row["Illumination"]).strip('%'))
-    out.append(obj)
+	obj["illumination"] = float(str(row["Illumination"]).strip('%'))
+	obj["type"] = row["Type"]
+	obj["day"] = day
+	day += 1
+	day = day % 7
+	out.append(obj)
+	
 
 with open('../data/phases.json', 'w') as json_file:
     json.dump({"data":out}, json_file, indent=2)
