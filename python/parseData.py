@@ -2,7 +2,7 @@ import pandas
 import json
 import time
 
-day = 4
+day = 1
 
 def convertTime(t):
     try:
@@ -30,7 +30,7 @@ def timeToFloat(t):
 
 out = []
 
-df = pandas.read_csv("../data/moonApril.csv");
+df = pandas.read_csv("../data/moonJune.csv");
 
 
 for index, row in df.iterrows():
@@ -50,7 +50,7 @@ for index, row in df.iterrows():
 	day += 1
 	day = day % 7
 	out.append(obj)
-	
+
 
 with open('../data/phases.json', 'w') as json_file:
     json.dump({"data":out}, json_file, indent=2)
